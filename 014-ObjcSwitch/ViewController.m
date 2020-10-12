@@ -8,7 +8,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+    // 他クラスからもアクセスできるメソッドにしたい場合はここに記述
 @end
 
 @implementation ViewController
